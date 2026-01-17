@@ -1,2 +1,2 @@
-# quantum_simulation
-simulating qubits, and having fun 
+# I found a cool youtube video
+yay
